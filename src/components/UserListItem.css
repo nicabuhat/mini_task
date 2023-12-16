@@ -1,0 +1,13 @@
+.name {
+  font-weight: 900;
+}
+
+ion-col {
+  display: flex;
+  align-items: center;
+}
+
+.delete {
+  display: inline-block;
+  margin-left: 4px;
+}

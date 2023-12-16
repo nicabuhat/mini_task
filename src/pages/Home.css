@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 32px;
+  color: darksalmon;
+}
+
+.row {
+  text-align: center;
+}
+
+ion-item {
+  --background: transparent;
+  --border-color: transparent;
+}
